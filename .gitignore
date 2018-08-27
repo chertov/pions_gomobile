@@ -1,0 +1,14 @@
+*
+!*/
+!*.conf
+!*.go
+*.gen.go
+
+!*.sh
+!*.yml
+
+!.gitignore
+!*/.gitignore
+
+pkg
+/src
